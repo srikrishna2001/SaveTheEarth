@@ -8,3 +8,4 @@ my weapon is hammer
 i am the god of thunder
 once i lost my hammer
 
+
